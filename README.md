@@ -2,24 +2,13 @@
 
 [eJPT](./res/eJPT.pdf)
 
+This repo contains the notes taken during the preparation of the eLearning
+Junior Penetration Testing (eJPTv2). This notes are very concise, just cover the
+essential information taken from the course for consultancy during the
+certification. Are not for studying the materials but for having the main
+commands on hand and the structure of a Penetration Test and the methodologies.
 
-This repo contains notes and cli tool usages which I wrote down during the
-preparation of this certification. Also want to write some thoughts on this
-certification and my experience.
-
-## Skillset
-
-Even we are talking about a beginner entry-level certification in penetration
-testing, the exploitation phases I went through were considerably easy. No need
-to code exploits or even to modify existing ones. Everything can be done through
-metasploit or using legitimate tools after getting some credentials.
-
-I think one of the most important skills required is a good understanding on the
-Linux Command Line. I consider that the fact I've been using Linux for few years
-has helped me a lot in passing it, many points were thanks to it.
-
-## Time
-
-48 hours is a lot of time for exploiting every single machine, but is great
-having that much and don't hurry up. I took me 19 hours counting the time I
-spent having lunch, pauses and even a 3 hours nap.
+Apart from the course that [INE](https://ine.com) brings to prepare the certification, and even it
+is enough to pass it, I found very useful to practice with some
+[TryHackMe](https://tryhackme.com) rooms, although sometimes those are even
+harder than the labs proposed by INE.
